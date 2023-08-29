@@ -10,6 +10,7 @@ out = open("output2_1.text", "w")
 ###########################################################
 
 # create an adjacency list for unweighted graph
+# The graph dictionary 
 
 # Here n = number of vertices, m = number of edges
 n, m = inp.readline().split()
